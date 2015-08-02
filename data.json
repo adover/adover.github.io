@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "home": {},
+    "work":{},
+    "history":{},
+    "conact":{}
+  },
+  "portfilio_items":{
+	"Steinlager" : {
+
+	},
+	"Budweiser - Made in America" : {
+
+	}, 
+	"Isaacs Cider" : {
+
+	},
+	"Macs Bers" : {
+	
+	}
+  },
+  "skills":[
+  	"HTML/CSS",
+  	"JavaScript",
+  	"jQuery",
+  	"Backbone",
+  	"RequireJS",
+  	"ReactJS",
+  	"NodeJS",
+  	"Photoshop/Illustrator"
+  ]
+}
