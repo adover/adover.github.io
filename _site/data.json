@@ -1,0 +1,90 @@
+{
+  "pages": {
+    "home": {
+      "title:": "Websites by Dover."
+    },
+    "work": {},
+    "bio": {
+      "title:": "What is Dover?",
+      "text": "Text for Bio"
+    },
+    "contact": {
+      "telephone": {
+        "title": "Call me on the phone",
+        "text": "-221 727 671"
+      },
+      "email": {
+        "title": "Send me an email",
+        "text": "me@andydover.co.uk"
+      }
+    }
+  },
+  "work_history": {
+    "WebExpectations.com Ltd": {
+      "fromto": "2000-2002",
+      "Role": "Junior Web Designer"
+    },
+    "AndyDover.co.uk": {
+      "fromto": "2012 - 2014",
+      "Role": "Front End Developer on behalf of Digital Island"
+    },
+    "Alite Ltd": {
+      "fromto": "2008-2010",
+      "Role": "Interactive Content Developer"
+    },
+    "AkzoNobel Ltd": {
+      "fromto": "2010 - 2012",
+      "Role": "Web Designer/Developer"
+    },
+    "Young and Shand": {
+      "fromto": "2014 - Present",
+      "Role": "Front End Developer => Development Manager"
+    }
+  },
+  "portfilio_items": {
+    "Steinlager": {
+      "Launch Date": "August 2015",
+      "Role": "Front End Development",
+      "Tech used": "HTML/CSS, Handlebars, Backbone JS, RequireJS &amp; jQuery, HTML5 Video, HTML5 Audio"
+    },
+    "Budweiser - Made in America": {
+      "Launch Date": "June 2015",
+      "Role": "Front End Development",
+      "Tech used": "HTML/CSS, Backbone JS, RequireJS &amp; jQuery, HTML5 Audio"
+    },
+    "Isaacs Cider": {
+      "Launch Date": "August 2015",
+      "Role": "Front End Development",
+      "Tech used": "HTML/CSS, javaScript/jQuery",
+      "Link": "http://www.isaacs.co.nz/"
+    },
+    "Macs Beer": {
+      "Launch Date": "August 2015",
+      "Role": "Front End Development",
+      "Tech used": "Wordpress, HTML/CSS, javaScript/jQuery",
+      "Link": "http://www.macs.co.nz/"
+    },
+    "Cadbury": {
+      "Launch Date": "August 2015",
+      "Role": "Front End Development",
+      "Tech used": "Wordpress, HTML/CSS, javaScript/jQuery",
+      "Link": "http://www.cadbury.co.nz/"
+    },
+    "Islington Giving": {
+      "Launch Date": "August 2013",
+      "Role": "Front End Development",
+      "Tech used": "Wordpress, HTML/CSS, javaScript/jQuery",
+      "Link": "http://www.islingtongiving.org.uk/"
+    }
+  },
+  "skills": [
+    "HTML/CSS",
+    "JavaScript",
+    "jQuery",
+    "Backbone",
+    "RequireJS",
+    "ReactJS",
+    "NodeJS",
+    "Photoshop/Illustrator"
+  ]
+}
