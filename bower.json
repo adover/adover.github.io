@@ -1,0 +1,20 @@
+{
+  "name": "adover",
+  "version": "0.0.0",
+  "homepage": "https://github.com/adover/adover.github.io",
+  "authors": [
+    "Andrew Dover <andrew_dover@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "es5-shim": "~4.1.10"
+  }
+}
